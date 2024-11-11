@@ -9,6 +9,7 @@ I have created file 1
 - Post changes 5
 - Post changes 6
 
-//Architect New changes to de
+//Architect New changes to master
+- Post changes 7
 - Post changes 8
 - Post changes 9
